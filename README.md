@@ -1,5 +1,5 @@
-CLIPBOARD SYNC
-=  
+# CLIPBOARD SYNC
+
   - This project allows you to synchronize clipboard text between a server and a client application. When you copy text on your desktop using CTRL+C, it will be displayed on both the server and client terminals.
 
    Compile the Java Files :
